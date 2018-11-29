@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SkateMateServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SkateMateServer_jar</output-path>
+    <root id="archive" name="SkateMateServer.jar">
+      <element id="module-output" name="SkateMateServer" />
+    </root>
+  </artifact>
+</component>
