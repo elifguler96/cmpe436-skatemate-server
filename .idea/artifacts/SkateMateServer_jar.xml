@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/SkateMateServer_jar</output-path>
     <root id="archive" name="SkateMateServer.jar">
       <element id="module-output" name="SkateMateServer" />
+      <element id="library" level="project" name="com.google.code.gson:gson:2.8.5" />
     </root>
   </artifact>
 </component>
